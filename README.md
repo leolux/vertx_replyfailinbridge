@@ -1,0 +1,2 @@
+# vertx_replyfailinbridge
+reproducer
